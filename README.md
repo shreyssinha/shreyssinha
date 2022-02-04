@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreyssinha
 - 👀 I’m interested in web developement, machine learning, data science
-- 🌱 I’m currently learning web development, data structures and algorithms
+- 🌱 I’m currently learning the MERN stack
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me: linkedin: https://www.linkedin.com/in/shrey-sinha-b39267204/
                       gmail: shreys1009@gmail.com
